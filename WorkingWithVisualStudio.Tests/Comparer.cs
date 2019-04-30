@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+
 namespace WorkingWithVisualStudio.Tests
 {
     public class Comparer
